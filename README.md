@@ -6,9 +6,10 @@ integration, and Azure-based data pipelines.
 
 ## Background
 
-- 14 years at Bryan University, progressing from systems administration
-  through to software engineering, including technical lead for
-  Anthology Student's (SIS/ERP) full on-premise-to-cloud migration.
+- 14 years in higher education, progressing from systems
+  administration through to software engineering, including technical
+  lead for Anthology Student's (SIS/ERP) full on-premise-to-cloud
+  migration.
 - Built and maintained 300+ Azure Data Factory pipelines, including a
   30+ pipeline Salesforce↔SIS integration layer.
 - Implemented SAML SSO and Azure AD identity provisioning
