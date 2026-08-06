@@ -24,6 +24,21 @@ Python · SQL (MSSQL, Postgres) · REST/GraphQL APIs · Azure Data Factory ·
 Active Directory / SAML SSO · Salesforce · Canvas LMS · Anthology Student
 · PowerShell
 
+## Reference Repos
+
+Personal reference implementations covering vendor API integration
+patterns — auth flows, pagination, webhook signature verification, and
+schema discovery, written from public documentation and general
+integration-engineering practice.
+
+- **[okta](https://github.com/gamilu/okta)** — Management API client,
+  including OAuth2 `client_credentials` + `private_key_jwt` with real
+  RS256 JWT client-assertion signing, verified cryptographically
+  against an independently generated keypair.
+- **[entra-id](https://github.com/gamilu/entra-id)** — Microsoft Graph
+  client for Entra ID: certificate-credential auth (`x5t` thumbprint
+  identification), delta queries, and `$batch` request bundling.
+
 ## Currently
 
 Open to new opportunities in systems integration, SIS/ERP
