@@ -39,8 +39,3 @@ integration-engineering practice.
   client for Entra ID with certificate-credential auth (`x5t`
   thumbprint identification), delta queries, and `$batch` request
   bundling.
-
-## Currently
-
-Open to new opportunities in systems integration, SIS/ERP
-administration, and backend engineering.
